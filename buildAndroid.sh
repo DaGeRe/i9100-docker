@@ -1,3 +1,5 @@
+export USER=root
+
 source build/envsetup.sh
 echo "Starting breakfast"
 breakfast i9100 &> breakfast_i9100.txt
